@@ -9,7 +9,10 @@ import React from 'react'
 // import Setup from './2-useEffect/3-useEffect-fetch-data';
 
 // import Setup from './3-conditional-rendering/1-multiple-returns';
-import Setup from './3-conditional-rendering/2-short-circuit';
+// import Setup from './3-conditional-rendering/2-short-circuit';
+
+// import Setup from './4-forms/1-controlled-inputs'
+import Setup from './4-forms/2-multiple-inputs'
 
 function App() {
   return (
