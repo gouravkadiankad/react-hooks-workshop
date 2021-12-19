@@ -23,7 +23,13 @@ import React from 'react'
 
 // import Setup from './8-useContext/1-context-api'
 
-import Setup from './9-custom-hooks/1-fetch-example'
+// import Setup from './9-custom-hooks/1-fetch-example'
+
+// import Setup from './10-Proptypes/index'
+
+import Setup from './11-react-router/index'
+
+// import Setup from './12-memo-useMemo-useCallback/final/index'
 
 
 function App() {
